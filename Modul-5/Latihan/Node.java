@@ -3,7 +3,7 @@ public class Node {
     Node left;
     Node right;
 
-    public Node(int data){
+    public Node(int data) {
         this.data = data;
     }
 }
